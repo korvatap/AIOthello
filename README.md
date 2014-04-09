@@ -1,0 +1,4 @@
+AIOthello
+=========
+
+Reversi algorithm
